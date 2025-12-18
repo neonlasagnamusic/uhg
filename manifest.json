@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Uhhg Virtual Work Party",
+    "version": "1.0",
+    "description": "A simple link app",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {
+        "16": "icons/u16.png",
+        "32": "icons/u32.png",
+        "48": "icons/u48.png",
+        "128": "icons/u128.png"
+    }
+}
