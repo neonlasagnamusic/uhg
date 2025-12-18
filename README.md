@@ -1,7 +1,7 @@
 # uhg
 A chrome extension with links to various virtual party games my team likes
 
-#Install
+# Install
 You should only need to take the .crx file and drag it into your chrome://extensions
 
 Important note:
