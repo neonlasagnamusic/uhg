@@ -2,13 +2,11 @@
 A chrome extension with links to various virtual party games my team likes
 
 # Install
-You should only need to take the .crx file and drag it into your chrome://extensions
+Until I get it up into the Chrome App Store, the only way to see it is to:
 
-Important note:
-
-Chrome may block .crx installs unless:
-- Installed via policy
-- Installed on managed machines
-- Or user explicitly confirms
-
-Recent Chrome versions discourage .crx installs outside the Web Store.
+- clone the repo files into a folder
+- Open Chrome & go to chrome://extensions/
+- Turn on Developer Mode (top right).
+- Click Load unpacked.
+- Select the folder location you saved the files to.
+- and Viola!
