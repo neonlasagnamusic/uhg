@@ -2,7 +2,7 @@
 A chrome extension with links to various virtual party games my team likes
 
 # Install
-You should only need to take the .crx file and drag it into your chrome://extensions
+You should only need to take the "uhg Virtual Work Party.crx" file and drag it into your chrome://extensions
 
 Important note:
 
